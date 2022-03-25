@@ -1,0 +1,12 @@
+                                                           //CONCEPTOS//
+
+
+// VARIABLES (Var): Es el método mediante el cual le asignas un nombre a cualquier cosa; ejemplo: escribes VAR + nombre de lo que decides nombrar (var objeto).
+
+//STRINGS: es el nombre que le asignaras al objeto que decidiste nombrar en variables, este siempre debe ir en comillas (“o ‘).
+
+//FUNCIONES: Son pequeñas partes de código que nos permite realizar una tarea o actividad en concreto; ejemplo: averiguar el área de una figura geométrica se puede calcular mediante una función, dentro de una función vamos a tener argumentos, que son valores que vas a escribir entre paréntesis (), que para nuestro ejemplo son la base y la altura de la figura. El área o resultado de la operación viene siendo retorn o resultado, el cual se obtuvo de la multiplicación de las medidas de la figura.
+
+//DECLARACIONES IF: Una declaración if le dice al programa que ejeute una cosa si cumple una condición; ejemplo: si el área de la figura es mayor a 5 debe colorearse de verde, pero por lo contrario si es menor a 5 debe pintarse de rojo.
+
+//VALORES BOOLEANOS (TRUE, FALSE): Los valores booleanos los encontramos dentro de las declaraciones if, son quienes indican a las declaraciones if si es verdadero o falso lo solicitado, en nuestro ejemplo de pintar de verde o rojo la figura, el valor booleano es quien dice: Verdadero (TRUE), el triángulo es mayor a 5 o falso (FALSE) es menor a 5, ya la acción de pintarse es una declaración if.
