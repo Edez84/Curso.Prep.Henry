@@ -1,0 +1,9 @@
+                                                      //CONCEPTOS//
+
+//FOR: en programación se usa cuando queremos repetir un conjunto de instrucciones un número finito de veces.
+
+//&& (AND - Y): Verdadero sólo si los dos elementos son verdaderos.
+
+//||(OR - O): Verdadero si cualquiera de los elementos es verdadero.
+
+//!(NOT - NO): Cambia el valor de Falso a Verdadero y viceversa.
