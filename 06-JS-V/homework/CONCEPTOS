@@ -1,0 +1,4 @@
+                                                                //CONCEPTOS//
+//PROTOTYPE: Los prototipos son un mecanismo mediante el cual los objetos heredan características entre sí, os objetos pueden tener un objeto prototipo, el cual actúa como un objeto plantilla que hereda métodos y propiedades.
+
+CONTRUCTORS (DE CLASES): El constructor, como su nombre indica, es el código que construye y configura un objeto cuando se crea con new. Todas las clases tienen un constructor, si no escribimos nada dentro de class se crea por defecto un constructor vacío. Tambien se les llama funciones constructoras.               
