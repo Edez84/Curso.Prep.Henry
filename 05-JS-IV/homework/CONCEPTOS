@@ -1,0 +1,10 @@
+                                                         //CONCEPTOS//
+//OBJETOS: Un objeto represeta una cosa (entidad) de la vida real, es decir, alguno de los objetos únicos que pertenecen al problema con el que nos estamos enfrentando, y con el que podemos interactuar. Es decir un modelo o estilo de programacion que nos da unas guias sobre como trabajar con el.
+
+//PROPIEDADES: Los propiedades representan información que contiene un objeto.
+
+//METODOS: Cuando una propiedad es una funcion la llamamos METODOS, siendo esotos los que determinan a su vez como va a responder el objeto cuando recibe un mensaje.
+
+//BUCLE FOR IN: Es la manera meidante la cual podemos acceder a los nombres de las propiedades de objeto.
+
+//NOTACION DE PUNTOS VS NOTACION DE CORCHETES: Hay dos métodos para acceder a las propiedades del objeto, el primero es la notación de puntos, el segundo es la notación de corchetes y el valor entre corchetes puede ser cualquier expresión. Por lo tanto, si el nombre del atributo se almacena en una variable, puede usar la notación de corchetes.
